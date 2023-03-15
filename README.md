@@ -1,6 +1,9 @@
-### Hi there 👋 , I am ...
+### Hi there 👋 , I'm Sully (Sue-lee) 😄
 
-An aspiring software engineer currently pursuing a certificate through MIT for FullStack Javascript Programming through MERN. I am based in the New England area. I enjoy problem solving and creative thinking.
+I enjoy problem solving, creative thinking, and challenging myself. 
+I am currently pursuing a certificate through MIT specializing in  FullStack Javascript Programming with MERN. 
+
+Check out my [GitHub Page](https://sullybjimenez.github.io).
 
 <!--
 **SullyBJimenez/sullybjimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
