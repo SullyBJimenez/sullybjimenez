@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , I am ...
+
+An aspiring software engineer currently pursuing a certificate through MIT for FullStack Javascript Programming through MERN. I am based in the New England area. I enjoy problem solving and creative thinking.
 
 <!--
 **SullyBJimenez/sullybjimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
