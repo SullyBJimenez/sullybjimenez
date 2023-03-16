@@ -1,8 +1,8 @@
-### Hi there 👋 , I'm Sully (Sue-lee) 😄
+### Hi there 👋 , I'm Sully (Sue-lee) ✨
 
 I enjoy problem solving, creative thinking, and challenging myself. 
 
-I am currently pursuing a certificate through MIT specializing in  FullStack Javascript Programming with MERN. 
+I graduated from Bentley University with a double major in Human Resource Management, Global Perspectives, and a minor in Computer Systems. I am now currently pursuing a certificate through MIT specializing in FullStack Javascript Programming with MERN. 
 
 📫 How to reach me: [Email](mailto:sullybjimenez@gmail.com) or through [Linkedin](https://www.linkedin.com/in/sully-jimenez-7a182778/)
 
